@@ -1,3 +1,5 @@
 node_modules
 .env
-losetogain-8d719-firebase-adminsdk-z9wcf-380b0c7d90
+*.json
+
+*.env
